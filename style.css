@@ -10,7 +10,7 @@
   height: 2px;
   right: 20px;
   top: 19px;
-  background:#c4c4c4;
+  background: #c4c4c4;
 }
 
 .rectangle2 {
@@ -19,7 +19,7 @@
   height: 2px;
   right: 20px;
   top: 25px;
-  background: #C4C4C4;
+  background: #c4c4c4;
 }
 
 .rectangle3 {
@@ -38,6 +38,7 @@
 .rectangle2:hover {
   background: white;
 }
+
 .rectangle3:hover {
   background: white;
 }
@@ -49,10 +50,13 @@
   width: 220px;
   left: 16px;
   top: 70px;
-  font-family: 'Playfair Display Black';
+}
+
+.container2 h1 {
+  font-family: 'Playfair Display Bold';
   font-style: normal;
   font-weight: 400;
-  font-size: 50px;
+  font-size: 70px;
   line-height: 100%;
 
   /* or 110px */
@@ -66,13 +70,15 @@
   height: 126px;
   left: 16px;
   top: 250px;
-  font-family: 'Poppins Thin';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 21px;
-  letter-spacing: -0.01em;
-  color: #1a2236;
+}
+.container3 p {
+font-family: 'Poppins Thin';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.01em;
+color: #1a2236;
 }
 
 .container4 {
@@ -81,7 +87,7 @@
   height: 50px;
   left: 16px;
   top: 400px;
-  background: #1A2236;
+  background: #1a2236;
 }
 
 .container4 p {
@@ -90,13 +96,16 @@
   height: 26.47px;
   left: 50px;
   top: 0;
-  font-family: 'Poppins Thin';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 27px;
-  text-align: center;
-  color: #ffffff;
+}
+
+p {
+font-family: 'Poppins Thin';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 27px;
+text-align: center;
+color: #fff;
 }
 
 .images {
@@ -109,7 +118,7 @@
   position: absolute;
   width: 74px;
   height: 74px;
-  left: 0px;
+  left: 0;
   top: 0;
 }
 
