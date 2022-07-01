@@ -1,7 +1,11 @@
 
-.nav-links{
+.navitems{
   display: flex;
   list-style: none;  
+}
+
+.rectangle1:hover{
+  background: white;
 }
 
 .container2 {
