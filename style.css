@@ -8,10 +8,11 @@
   position: absolute;
   width: 20px;
   height: 2px;
-  right:20px;
-  top:19px;
-  background:#C4C4C4;
+  right: 20px;
+  top: 19px;
+  background:#c4c4c4;
 }
+
 .rectangle2 {
   position: absolute;
   width: 20px;
@@ -20,22 +21,24 @@
   top: 25px;
   background: #C4C4C4;
 }
+
 .rectangle3 {
   position: absolute;
   width: 20px;
   height: 2px;
   right: 20px;
   top: 31px;
-  background: #C4C4C4;
+  background: #c4c4c4;
 }
 
 .rectangle1:hover {
   background: white;
 }
+
 .rectangle2:hover {
   background: white;
 }
-  .rectangle3:hover {
+.rectangle3:hover {
   background: white;
 }
 
@@ -46,13 +49,13 @@
   width: 220px;
   left: 16px;
   top: 70px;
-
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display Black';
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
   line-height: 100%;
-/* or 110px */
+
+  /* or 110px */
   color: #1a2236;
 }
 
@@ -63,41 +66,37 @@
   height: 126px;
   left: 16px;
   top: 250px;
-  font-family: 'Poppins';
+  font-family: 'Poppins Thin';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 21px;
   letter-spacing: -0.01em;
-  color: #1A2236;
+  color: #1a2236;
 }
+
 .container4 {
   position: absolute;
   width: 288px;
   height: 50px;
   left: 16px;
   top: 400px;
-  
-    
   background: #1A2236;
 }
+
 .container4 p {
   position: absolute;
   width: 203.68px;
   height: 26.47px;
   left: 50px;
-  top: 0px;
-
-  font-family: 'Poppins';
+  top: 0;
+  font-family: 'Poppins Thin';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 27px;
-/* identical to box height */
-
   text-align: center;
-
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .images {
@@ -106,19 +105,19 @@
 }
 
 .shape1 {
-    list-style: none;
-    position: absolute;
-    width: 74px;
-    height: 74px;
-    left: 0px;
-    top: 0px;
+  list-style: none;
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 0px;
+  top: 0;
 }
 
 .shape2 {
-    list-style: none;
-    position: absolute;
-    width: 74px;
-    height: 74px;
-    left: 37px;
-    top: 0px;
+  list-style: none;
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 37px;
+  top: 0;
 }
