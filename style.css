@@ -3,9 +3,11 @@
   display: block;
   list-style: none;
 }
+
 .container {
   list-style: none;
 }
+
 .rectangle1 {
   position: absolute;
   width: 20px;
@@ -63,7 +65,7 @@
   left: 16px;
 }
 
-.container2 h1{
+.container2 h1 {
   font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
