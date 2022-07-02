@@ -51,6 +51,7 @@
   left: 16px;
   top: 104px;
 }
+
 .container2 {
   display: flex;
   position: absolute;
@@ -61,7 +62,7 @@
 }
 
 .container2 h1 {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
