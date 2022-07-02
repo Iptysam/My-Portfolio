@@ -145,3 +145,304 @@
   left: 37px;
   top: 0;
 }
+
+.container5 {
+  display: flex;
+  position: absolute;
+  left: 0;
+  top: 368px;
+}
+.shape3 {
+  list-style: none;
+  position: absolute;
+  left: 0;
+  top: 368.31px;
+}
+
+.shape4 {
+  list-style: none;
+  position: absolute;
+  left: 0;
+  top: 368.31px;
+}
+
+.shape5 {
+  list-style: none;
+  position: absolute;
+  right: 160.25px;
+  top: 448.2.31px;
+}
+
+.shape6 {
+  list-style: none;
+  position: absolute;
+  left: 0;
+  top: 368.31px;
+}
+
+.shape7 {
+  list-style: none;
+  position: absolute;
+  left: 0;
+  right: 279.56px;
+  top: 368.31px;
+}
+
+.shape8 {
+  list-style: none;
+  position: absolute;
+  left: 180.22px;
+  right: 99.84px;
+  top: 468.18px;
+}
+
+.shape9 {
+  list-style: none;
+  position: absolute;
+  left: 160.25px;
+  right: 79.88px;
+  top: 448.2px;
+}
+
+.shape10 {
+  list-style: none;
+  position: absolute;
+  left: 20.87px;
+  right: 259.87px;
+  top: 468.18px;
+}
+
+.shape11 {
+  list-style: none;
+  position: absolute;
+  left: 0.5px;
+  right: 239.63px;
+  top: 448.2px;
+}
+
+.shape11 {
+  list-style: none;
+  position: absolute;
+  left: 0.5px;
+  right: 239.63px;
+  top: 448.2px;
+}
+
+.shape12 {
+  list-style: none;
+  position: absolute;
+  left: 0.5px;
+  right: 239.63px;
+  top: 448.2px;
+}
+
+.shape13 {
+  list-style: none;
+  position: absolute;
+  left: 0.5px;
+  right: 239.63px;
+  top: 448.2px;
+}
+
+.shape14 {
+  list-style: none;
+  position: absolute;
+  left: 0.5px;
+  right: 239.63px;
+  top: 448.2px;
+}
+
+.shape15 {
+  list-style: none;
+
+}
+
+.container6 {
+  display: flex;
+  position: absolute;
+  width: 181px;
+  height: 50px;
+  left: 16px;
+  top: 672px;
+}
+
+.container6 h2 {
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 100%;
+  /* identical to box height, or 50px */
+  color: #1a2236;
+}
+
+.rect1 {
+  list-style: none;
+  position: absolute;
+  width: 320px;
+  height: 186px;
+  left: 0px;
+  top: 754px;
+  background: url(image.png);
+  border: 0.333333px solid rgba(255, 255, 255, 0.1);
+}
+
+.container8 {
+  display: flex;
+  list-style: none;
+  position: absolute;
+  width: 264px;
+  height: 16px;
+  left: 20px;
+  top: 960px;
+}
+
+.Proj1 {
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 80%;
+  /* identical to box height, or 16px */
+  color: #FFFFFF;
+}
+
+.container9 {
+  display: flex;
+  position: absolute;
+  list-style: none;
+  width: 69px;
+  height: 20px;
+  left: 20px;
+  top: 992px;
+  background: #98DEDE;
+}
+
+.data1 {
+  display: flex;
+  position: absolute;
+  list-style: none;
+  width: 49px;
+  height: 8px;
+  left: 30px;
+  top: 998px;
+}
+
+.Lang1 {
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10.3334px;
+  line-height: 80%;
+  /* or 8px */
+  color: #1A2236;
+}
+
+.container10 {
+  display: flex;
+  position: absolute;
+  list-style: none;
+  width: 87px;
+  height: 20px;
+  left: 99px;
+  top: 992px;
+  background: #98DEDE;
+}
+
+.data2 {
+  position: absolute;
+  list-style: none;
+  width: 67px;
+  height: 8px;
+  left: 109px;
+  top: 998px;
+  
+}
+
+.Lang2 {
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10.3334px;
+  line-height: 80%;
+  /* or 8px */
+  color: #1a2236;
+}
+
+.container11 {
+  display: flex;
+  position: absolute;
+  list-style: none;
+  width: 74px;
+  height: 20px;
+  left: 196px;
+  top: 992px;
+  background: #98DEDE;
+}
+
+.data3 {
+  list-style: none;
+  text-decoration: none;
+  position: absolute;
+  width: 54px;
+  height: 8px;
+  left: 206px;
+  top: 998px;
+}
+
+.Lang3 {
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10.3334px;
+  line-height: 80%;
+  /* or 8px */
+  color: #1A2236;
+}
+
+.container14 {
+  position: absolute;
+  width: 178px;
+  height: 44px;
+  left: 20px;
+  top: 1032px;
+  border: 1px solid #FFFFFF;
+}
+
+.navlink2 {
+  display:block;
+  list-style: none;
+}
+
+.project1 {
+  text-decoration: none;
+  position: absolute;
+  width: 124px;
+  height: 24px;
+  left: 30px;
+  top: 1042px;
+}
+
+.project a {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  text-align: center;
+  color: #FFFFFF;
+}
+
+arrow {
+  position: absolute;
+  width: 20.57px;
+  height: 15.35px;
+  left: 166px;
+  top: 1045.95px;
+  background: #FFFFFF;
+}
