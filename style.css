@@ -149,34 +149,41 @@
 .container5 {
   display: flex;
   position: absolute;
+  width: 320px;
+  height: 79.9px;
   left: 0;
-  top: 368px;
+  top: 472px;
 }
 .shape3 {
   list-style: none;
   position: absolute;
+  width: 74px ;
+  height: 74px ;
   left: 0;
-  top: 368.31px;
+  top: 472.31px;
 }
 
 .shape4 {
   list-style: none;
   position: absolute;
   left: 0;
-  top: 368.31px;
+  top: 472.31px;
 }
 
 .shape5 {
   list-style: none;
   position: absolute;
-  right: 160.25px;
-  top: 448.2.31px;
+  width: 10px;
+  height: 10px;
+  right: 80.37px;
+  top: 472.31px;
 }
 
 .shape6 {
   list-style: none;
   position: absolute;
-  left: 0;
+  right: 0.5px;
+  left: 239.62px;
   top: 368.31px;
 }
 
