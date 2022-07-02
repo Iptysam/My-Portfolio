@@ -1,108 +1,126 @@
-.container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: center;
 
-  position: absolute;
-  width: 1440px;
-  height: 100px;
-  left: 0px;
-  top: 0px;
-  background: #FFFFFF;
-  box-shadow: 0px 0.5px 0px #DDDFE6;
-  }
-
-.nav-links{
-  display: flex;
-  list-style: none;  
+.navitems {
+  display: block;
+  list-style: none;
 }
 
-.nav-item a {
-  display: flex;
-  padding: 10px 15px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  color: #1A2236;
-  text-decoration: none; 
-  text-align: right;
-  line-height: 24px;
-    
-  }
-  
-.nav-item:hover {
-  background-color: white;
-  }
-  
+.container {
+  list-style: none;
+}
 
+.rectangle1 {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  right: 20px;
+  top: 19px;
+  background: #c4c4c4;
+}
+
+.rectangle2 {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  right: 20px;
+  top: 25px;
+  background: #c4c4c4;
+}
+
+.rectangle3 {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  right: 20px;
+  top: 31px;
+  background: #c4c4c4;
+}
+
+.rectangle1:hover {
+  background: white;
+}
+
+.rectangle2:hover {
+  background: white;
+}
+
+.rectangle3:hover {
+  background: white;
+}
+
+.hamburger {
+  display: flex;
+  position: absolute;
+  width: 288px;
+  height: 336px;
+  left: 16px;
+  top: 104px;
+}
 
 .container2 {
+  display: flex;
   position: absolute;
-  display:block;
-  height: 220px;
-  width: 484px;
-  left: 160px;
-  top: 292px;
-  border-radius: nullpx;
-  
+  height: 100px;
+  width: 220px;
+  top: 104px;
+  left: 16px;
+}
 
-  font-family: 'Playfair Display';
+.container2 h1 {
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 110px;
+  font-size: 50px;
   line-height: 100%;
-/* or 110px */
-  color: #1A2236;
+
+  /* or 50px */
+  color: #1a2236;
 }
 
 .container3 {
-  display:flex;
+  display: flex;
   position: absolute;
-  width: 484px;
-  height: 84px;
-  left: 160px;
-  top: 760px;
+  width: 288px;
+  height: 126px;
+  left: 16px;
+  top: 224px;
+}
 
-  font-family: 'Poppins';
+.container3 p {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 21px;
   letter-spacing: -0.01em;
-
-  color: #1A2236;
+  color: #1a2236;
 }
 
 .container4 {
+  box-sizing: border-box;
   position: absolute;
-  width: 254px;
-  height: 70px;
-  left: 160px;
-  top: 900px;
-  
-    
-  background: #1A2236;
-
+  width: 288px;
+  height: 50px;
+  left: 16px;
+  top: 390px;
+  background: #1a2236;
 }
-.container4 p{
+
+.container4 p {
   position: absolute;
   width: 203.68px;
   height: 26.47px;
-  left: 30.16px;
-  top: 0px;
+  left: 50px;
+  top: 0;
+}
 
-  font-family: 'Poppins';
+.info p {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 27px;
-/* identical to box height */
-
   text-align: center;
-
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .images {
@@ -110,7 +128,20 @@
   flex-wrap: wrap;
 }
 
-.box {
-    Width: 1403px;
-    Height: 877.09px;
+.shape1 {
+  list-style: none;
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 0;
+  top: 0;
+}
+
+.shape2 {
+  list-style: none;
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 37px;
+  top: 0;
 }
