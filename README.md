@@ -7,14 +7,8 @@
 
 ## Built With
 
-- Major languages
+- HTML and CSS
 - Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
@@ -25,13 +19,27 @@ A new feature branch has to be created apart from the main. The webpage has to b
 
 👤 **Iptisam Dawood**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/Iptysam
+- LinkedIn: www.linkedin.com/in/iptisam-mukadam-4b2b39239
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 
 Feel free to check the [issues page](../../issues/).
 
