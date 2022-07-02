@@ -43,23 +43,31 @@
   background: white;
 }
 
-.container2 {
-  position: absolute;
+.hamburger {
   display: flex;
+  position: absolute;
+  width: 288px;
+  height: 336px;
+  left: 16px;
+  top: 104px;
+}
+.container2 {
+  display: flex;
+  position: absolute;
   height: 100px;
   width: 220px;
+  top: 104px;
   left: 16px;
-  top: 70px;
 }
 
 .container2 h1 {
-  font-family: 'Playfair Display Bold', sans-serif;
+  font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 400;
-  font-size: 110px;
+  font-size: 50px;
   line-height: 100%;
 
-  /* or 110px */
+  /* or 50px */
   color: #1a2236;
 }
 
@@ -69,11 +77,11 @@
   width: 288px;
   height: 126px;
   left: 16px;
-  top: 250px;
+  top: 224px;
 }
 
 .container3 p {
-  font-family: 'Poppins Thin', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -83,11 +91,12 @@
 }
 
 .container4 {
+  box-sizing: border-box;
   position: absolute;
   width: 288px;
   height: 50px;
   left: 16px;
-  top: 400px;
+  top: 390px;
   background: #1a2236;
 }
 
