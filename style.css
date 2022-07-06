@@ -335,16 +335,16 @@
   background: #1a2236;
 }
 
-.Proj1 {
+.container8 p {
   list-style: none;
   position: absolute;
   width: 264px;
   height: 16px;
   left: 20px;
-  top: 20px;
+  top: 5px;
 }
 
-.Proj1 a {
+.Proj1  {
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -356,107 +356,51 @@
   color: #fff;
 }
 
-.container9 {
+a {
+  text-decoration: none;
+}
+
+.container9 { 
+  position: absolute;  
+  left: 16px;  
+  right: 10px;  
+  top: 50px;  
+  height: 30px;  
+  display: block;  
+  align-items: center;  
+  justify-content: space-evenly;
+  overflow: hidden; 
+}
+
+.container9 ul {
   list-style: none;
-  display: flex;
-  position: absolute;
-  width: 69px;
-  height: 20px;
-  left: 20px;
-  top: 50px;
+}
+
+.container9 li {
+  float: left;
+  margin: 6px;
+  list-style: none;
+}
+
+.container9 * {
+  display: inline;
+} 
+
+.container9 a {
+  top: 11px;
+  color: #1d1d24;
+  padding: 2px;
   background: #98dede;
-}
-
-.data1 a {
-  text-decoration: none;
-  list-style: none;
-  display: flex;
-  position: absolute;
-  width: 49px;
-  height: 8px;
-  left: 3px;
-  top: 10px;
-}
-
-.Lang {
-  text-decoration: none;
-  list-style: none;
   font-family: 'Poppins', sans-serif;
+  text-decoration: none;
   font-style: normal;
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
-
-  /* or 8px */
-  color: #1a2236;
 }
 
-.container10 {
-  display: flex;
-  position: absolute;
-  list-style: none;
-  width: 87px;
-  height: 20px;
-  left: 99px;
-  top: 50px;
-  background: #98dede;
-}
-
-.data2 a {
-  text-decoration: none;
-  position: absolute;
-  list-style: none;
-  width: 67px;
-  height: 8px;
-  left: 5px;
-  top: 10px;
-}
-
-.Lang1 {
-  text-decoration: none;
-  list-style: none;
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 10.3334px;
-  line-height: 80%;
-
-  /* or 8px */
-  color: #1a2236;
-}
-
-.container11 {
-  display: flex;
-  position: absolute;
-  list-style: none;
-  width: 74px;
-  height: 20px;
-  left: 196px;
-  top: 50px;
-  background: #98dede;
-}
-
-.data3 a {
-  list-style: none;
-  text-decoration: none;
-  position: absolute;
-  width: 54px;
-  height: 8px;
-  left: 5px;
-  top: 10px;
-}
-
-.Lang2 {
-  text-decoration: none;
-  list-style: none;
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 10.3334px;
-  line-height: 80%;
-
-  /* or 8px */
-  color: #1a2236;
+.container9 li {
+  margin: 5px;
 }
 
 .container14 {
@@ -1718,7 +1662,7 @@
   list-style: none;
   width: 55px;
   height: 30px;
-  left: 30px;
+  left: 10px;
   top: 10px;
 }
 
@@ -1741,7 +1685,7 @@
   position: absolute;
   width: 88px;
   height: 135px;
-  left: 10px;
+  left: 30px;
   top: 3850px;
   color: #fff;
 }
