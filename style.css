@@ -158,8 +158,8 @@
 .shape3 {
   list-style: none;
   position: absolute;
-  width: 74px ;
-  height: 74px ;
+  width: 74px;
+  height: 74px;
   left: 0;
   top: 472.31px;
 }
@@ -1006,7 +1006,7 @@
   width: 67px;
   height: 8px;
   left: 5px;
-  top: 10px; 
+  top: 10px;
 }
 
 .Lang10 {
@@ -1449,6 +1449,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1694,7 +1695,7 @@
 
 .Frame a {
   text-decoration: none;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -1762,7 +1763,7 @@
   width: 102px;
   height: 102px;
   left: 203px;
-  top: 3336px;  
+  top: 3336px;
 }
 
 .shape18 {
@@ -1771,12 +1772,12 @@
   width: 102.22px;
   height: 102.22px;
   left: 209px;
-  top: 3648px;  
+  top: 3648px;
 }
 
 .shape19 {
   list-style: none;
-  position: absolute; 
+  position: absolute;
   width: 72.28px;
   height: 72.28px;
   left: 210.73px;
@@ -1798,7 +1799,7 @@
   left: 19.07%;
   right: 28.56%;
   top: 3957px;
-  bottom: 0px;
+  bottom: 0;
 }
 
 .shape22 {
@@ -1841,7 +1842,7 @@
   left: 15.9%;
   right: 0.5%;
   bottom: 10.99%;
-  top: 3980px
+  top: 3980px;
 }
 
 .shape27 {
