@@ -154,6 +154,7 @@
   left: 0;
   top: 10px;
 }
+
 .shape3 {
   list-style: none;
   position: absolute;
@@ -305,6 +306,7 @@
   font-weight: 400;
   font-size: 50px;
   line-height: 100%;
+
   /* identical to box height, or 50px */
   color: #1a2236;
 }
@@ -322,7 +324,7 @@
   position: absolute;
   width: 320px;
   height: 156px;
-  left: 0px;
+  left: 0;
   top: 950px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -349,6 +351,7 @@
   font-weight: 300;
   font-size: 20px;
   line-height: 80%;
+
   /* identical to box height, or 16px */
   color: #fff;
 }
@@ -383,6 +386,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -406,7 +410,6 @@
   height: 8px;
   left: 5px;
   top: 10px;
-  
 }
 
 .Lang1 {
@@ -417,6 +420,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -450,6 +454,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -464,7 +469,7 @@
 }
 
 .navlink2 {
-  display:block;
+  display: block;
   list-style: none;
 }
 
@@ -485,6 +490,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -509,7 +515,7 @@
   position: absolute;
   width: 320px;
   height: 186px;
-  left: 0px;
+  left: 0;
   top: 1096px;
 }
 
@@ -518,7 +524,7 @@
   position: absolute;
   width: 320px;
   height: 156px;
-  left: 0px;
+  left: 0;
   top: 1282px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -545,6 +551,7 @@
   font-weight: 300;
   font-size: 20px;
   line-height: 80%;
+
   /* identical to box height, or 16px */
   color: #fff;
 }
@@ -578,6 +585,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -611,6 +619,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -644,6 +653,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -658,7 +668,7 @@
 }
 
 .navlink3 {
-  display:block;
+  display: block;
   list-style: none;
 }
 
@@ -674,11 +684,12 @@
 
 .project2 a {
   text-decoration: none;
-  font-family: 'Poppins',sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -698,13 +709,12 @@
   background: #1a2236;
 }
 
-
 .rect3 {
   list-style: none;
   position: absolute;
   width: 320px;
   height: 186px;
-  left: 0px;
+  left: 0;
   top: 1438px;
 }
 
@@ -712,7 +722,7 @@
   position: absolute;
   width: 320px;
   height: 156px;
-  left: 0px;
+  left: 0;
   top: 1618px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -739,6 +749,7 @@
   font-weight: 300;
   font-size: 20px;
   line-height: 80%;
+
   /* identical to box height, or 16px */
   color: #fff;
 }
@@ -773,6 +784,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -796,7 +808,6 @@
   height: 8px;
   left: 5px;
   top: 10px;
-  
 }
 
 .Lang7 {
@@ -807,6 +818,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -840,6 +852,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -854,7 +867,7 @@
 }
 
 .navlink4 {
-  display:block;
+  display: block;
   list-style: none;
 }
 
@@ -875,6 +888,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -907,7 +921,7 @@
   position: absolute;
   width: 320px;
   height: 156px;
-  left: 0px;
+  left: 0;
   top: 1955px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -934,6 +948,7 @@
   font-weight: 300;
   font-size: 20px;
   line-height: 80%;
+
   /* identical to box height, or 16px */
   color: #fff;
 }
@@ -968,6 +983,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1001,6 +1017,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1034,6 +1051,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1048,7 +1066,7 @@
 }
 
 .navlink5 {
-  display:block;
+  display: block;
   list-style: none;
 }
 
@@ -1069,6 +1087,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -1088,7 +1107,6 @@
   background: #1a2236;
 }
 
-
 .rect5 {
   list-style: none;
   position: absolute;
@@ -1102,7 +1120,7 @@
   position: absolute;
   width: 318px;
   height: 156px;
-  left: 0px;
+  left: 0;
   top: 2292px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -1129,6 +1147,7 @@
   font-weight: 300;
   font-size: 20px;
   line-height: 80%;
+
   /* identical to box height, or 16px */
   color: #fff;
 }
@@ -1163,6 +1182,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1186,7 +1206,6 @@
   height: 8px;
   left: 5px;
   top: 10px;
-  
 }
 
 .Lang13 {
@@ -1197,6 +1216,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1230,6 +1250,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1244,7 +1265,7 @@
 }
 
 .navlink6 {
-  display:block;
+  display: block;
   list-style: none;
 }
 
@@ -1265,6 +1286,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -1297,7 +1319,7 @@
   position: absolute;
   width: 318px;
   height: 156px;
-  left: 0px;
+  left: 0;
   top: 2644px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -1324,6 +1346,7 @@
   font-weight: 300;
   font-size: 20px;
   line-height: 80%;
+
   /* identical to box height, or 16px */
   color: #fff;
 }
@@ -1358,6 +1381,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1381,7 +1405,6 @@
   height: 8px;
   left: 5px;
   top: 10px;
-  
 }
 
 .Lang16 {
@@ -1392,6 +1415,7 @@
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
+
   /* or 8px */
   color: #1a2236;
 }
@@ -1439,7 +1463,7 @@
 }
 
 .navlink7 {
-  display:block;
+  display: block;
   list-style: none;
 }
 
@@ -1460,6 +1484,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -1488,11 +1513,12 @@
 }
 
 .container45 h3 {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
   line-height: 100%;
+
   /* identical to box height, or 50px */
   color: #1a2236;
 }
@@ -1506,7 +1532,7 @@
 }
 
 .container46 p {
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -1538,6 +1564,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height */
   text-align: center;
   color: #fff;
@@ -1549,8 +1576,8 @@
   position: absolute;
   width: 20.57px;
   height: 15.35px;
-  left: 100px;
-  top: 15px;
+  left: 210px;
+  top: 3070px;
 }
 
 .arrow6:hover {
@@ -1563,8 +1590,8 @@
   position: absolute;
   width: 20.57px;
   height: 15.35px;
-  left: 105px;
-  top: 10px;
+  left: 215px;
+  top: 3065px;
 }
 
 .arrow7:hover {
@@ -1592,11 +1619,12 @@
 
 .box1 a {
   text-decoration: none;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 20px;
   line-height: 30px;
+
   /* identical to box height */
   color: #fff;
 }
@@ -1613,7 +1641,7 @@
 
 .Language a {
   text-decoration: none;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -1644,11 +1672,12 @@
 .box2 a {
   text-decoration: none;
   list-style: none;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 20px;
   line-height: 30px;
+
   /* identical to box height */
   color: #fff;
 }
@@ -1695,11 +1724,12 @@
 .box3 a {
   text-decoration: none;
   list-style: none;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 20px;
   line-height: 30px;
+
   /* identical to box height */
   color: #fff;
 }
@@ -1711,13 +1741,13 @@
   width: 88px;
   height: 135px;
   left: 10px;
-  top: 50px;
+  top: 3850px;
   color: #fff;
 }
 
 .MySkill a {
   text-decoration: none;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -1756,71 +1786,69 @@
 .shape20 {
   list-style: none;
   position: absolute;
-  left: 70.85%;
+  left: 16.85%;
   right: 14.84%;
-  top: 64%;
-  bottom: 0%; 
+  top: 3949px;
+  bottom: 0;
 }
 
 .shape21 {
   list-style: none;
   position: absolute;
-  left: 81.07%;
-  right: 26.56%;
-  top: 67.72%;
-  bottom: 67.92%;
+  left: 19.07%;
+  right: 28.56%;
+  top: 3957px;
+  bottom: 0px;
 }
 
 .shape22 {
   list-style: none;
   position: absolute;
-  left: 65.86%;
+  left: 22.5%;
   right: 89.14%;
-  top: 72.5%;
+  top: 3960px;
   bottom: 74.49%;
 }
 
 .shape23 {
   list-style: none;
   position: absolute;
-  left: 95%;
-  right: 08%;
-  bottom: 30px;
+  left: 22.5%;
+  right: 89%;
+  top: 3980px;
 }
 
 .shape24 {
   list-style: none;
   position: absolute;
-  left: 95.07%;
-  right: 26.56%;
-  top: 65.72%;
-  bottom: 67.92%;
+  left: 22.5%;
+  right: 89.56%;
+  top: 3999px;
 }
 
 .shape25 {
   list-style: none;
   position: absolute;
-  left: 96%;
-  right: 0.86%;
-  top: 75.5%;
+  left: 15.9%;
+  right: 0.5%;
+  top: 3999px;
   bottom: 74.49%;
 }
 
 .shape26 {
   list-style: none;
   position: absolute;
-  left: 67.28%;
-  right: 0%;
+  left: 15.9%;
+  right: 0.5%;
   bottom: 10.99%;
+  top: 3980px
 }
+
 .shape27 {
   list-style: none;
   position: absolute;
-  left: 67.14%;
-  right: 0.86%;
-  top: 65.66%;
+  left: 15.9%;
+  right: 0.5%;
+  top: 3960px;
   bottom: 20.34%;
 }
-
-
-
