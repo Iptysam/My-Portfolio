@@ -348,7 +348,7 @@
   top: 5px;
 }
 
-.Proj1  {
+.Proj1 {
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -388,7 +388,7 @@ a {
 
 .container9 * {
   display: inline;
-} 
+}
 
 .container9 a {
   top: 11px;
@@ -524,7 +524,7 @@ a {
 
 .container13 * {
   display: inline;
-} 
+}
 
 .container13 a {
   top: 11px;
@@ -635,7 +635,7 @@ a {
   color: #fff;
 }
 
-.container17 { 
+.container17 {
   position: absolute;
   left: 16px;
   right: 10px;
@@ -659,7 +659,7 @@ a {
 
 .container17 * {
   display: inline;
-} 
+}
 
 .container17 a {
   top: 11px;
@@ -794,7 +794,7 @@ a {
 
 .container21 * {
   display: inline;
-} 
+}
 
 .container21 a {
   top: 11px;
@@ -929,7 +929,7 @@ a {
 
 .container25 * {
   display: inline;
-} 
+}
 
 .container25 a {
   top: 11px;
@@ -1047,7 +1047,7 @@ a {
   top: 50px;
   height: 30px;
   display: block;
-  align-items: center;  
+  align-items: center;
   justify-content: space-evenly;
   overflow: hidden;
 }
