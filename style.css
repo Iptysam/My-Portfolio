@@ -364,16 +364,16 @@ a {
   text-decoration: none;
 }
 
-.container9 { 
-  position: absolute;  
-  left: 16px;  
-  right: 10px;  
-  top: 50px;  
-  height: 30px;  
-  display: block;  
-  align-items: center;  
+.container9 {
+  position: absolute;
+  left: 16px;
+  right: 10px;
+  top: 50px;
+  height: 30px;
+  display: block;
+  align-items: center;
   justify-content: space-evenly;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .container9 ul {
@@ -401,10 +401,6 @@ a {
   font-weight: 300;
   font-size: 10.3334px;
   line-height: 80%;
-}
-
-.container9 li {
-  margin: 5px;
 }
 
 .container10 {
@@ -504,16 +500,16 @@ a {
   color: #fff;
 }
 
-.container13 { 
-  position: absolute;  
-  left: 16px;  
-  right: 10px;  
-  top: 50px;  
-  height: 30px;  
-  display: block;  
-  align-items: center;  
+.container13 {
+  position: absolute;
+  left: 16px;
+  right: 10px;
+  top: 50px;
+  height: 30px;
+  display: block;
+  align-items: center;
   justify-content: space-evenly;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .container13 ul {
@@ -542,11 +538,6 @@ a {
   font-size: 10.3334px;
   line-height: 80%;
 }
-
-.container13 li {
-  margin: 5px;
-}
-
 
 .container14 {
   position: absolute;
@@ -645,15 +636,15 @@ a {
 }
 
 .container17 { 
-  position: absolute;  
-  left: 16px;  
-  right: 10px;  
-  top: 50px;  
-  height: 30px;  
-  display: block;  
-  align-items: center;  
+  position: absolute;
+  left: 16px;
+  right: 10px;
+  top: 50px;
+  height: 30px;
+  display: block;
+  align-items: center;
   justify-content: space-evenly;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .container17 ul {
@@ -682,11 +673,6 @@ a {
   font-size: 10.3334px;
   line-height: 80%;
 }
-
-.container17 li {
-  margin: 5px;
-}
-
 
 .container18 {
   position: absolute;
@@ -784,16 +770,16 @@ a {
   color: #fff;
 }
 
-.container21 { 
-  position: absolute;  
-  left: 16px;  
-  right: 10px;  
-  top: 50px;  
-  height: 30px;  
-  display: block;  
-  align-items: center;  
+.container21 {
+  position: absolute;
+  left: 16px;
+  right: 10px;
+  top: 50px;
+  height: 30px;
+  display: block;
+  align-items: center;
   justify-content: space-evenly;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .container21 ul {
@@ -822,11 +808,6 @@ a {
   font-size: 10.3334px;
   line-height: 80%;
 }
-
-.container21 li {
-  margin: 5px;
-}
-
 
 .container22 {
   position: absolute;
@@ -924,16 +905,16 @@ a {
   color: #fff;
 }
 
-.container25 { 
-  position: absolute;  
-  left: 16px;  
-  right: 10px;  
-  top: 50px;  
-  height: 30px;  
-  display: block;  
-  align-items: center;  
+.container25 {
+  position: absolute;
+  left: 16px;
+  right: 10px;
+  top: 50px;
+  height: 30px;
+  display: block;
+  align-items: center;
   justify-content: space-evenly;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .container25 ul {
@@ -962,11 +943,6 @@ a {
   font-size: 10.3334px;
   line-height: 80%;
 }
-
-.container25 li {
-  margin: 5px;
-}
-
 
 .container26 {
   position: absolute;
@@ -1064,16 +1040,16 @@ a {
   color: #fff;
 }
 
-.container29 { 
-  position: absolute;  
-  left: 16px;  
-  right: 10px;  
-  top: 50px;  
-  height: 30px;  
-  display: block;  
+.container29 {
+  position: absolute;
+  left: 16px;
+  right: 10px;
+  top: 50px;
+  height: 30px;
+  display: block;
   align-items: center;  
   justify-content: space-evenly;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .container29 ul {
@@ -1088,7 +1064,7 @@ a {
 
 .container29 * {
   display: inline;
-} 
+}
 
 .container29 a {
   top: 11px;
@@ -1102,11 +1078,6 @@ a {
   font-size: 10.3334px;
   line-height: 80%;
 }
-
-.container29 li {
-  margin: 5px;
-}
-
 
 .container30 {
   position: absolute;
@@ -1366,7 +1337,6 @@ a {
   color: #fff;
 }
 
-
 .shape18 {
   list-style: none;
   position: absolute;
@@ -1444,7 +1414,7 @@ a {
   width: 102px;
   height: 102px;
   left: 203px;
-  top: 0px;
+  top: 0;
 }
 
 .shape20 {
