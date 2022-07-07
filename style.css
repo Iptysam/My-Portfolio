@@ -292,7 +292,7 @@
 }
 
 .container6 {
-  display: grid;
+  display: flex;
   position: absolute;
   width: 181px;
   height: 50px;
