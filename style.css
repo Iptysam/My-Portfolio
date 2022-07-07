@@ -292,7 +292,7 @@
 }
 
 .container6 {
-  display: flex;
+  display: grid;
   position: absolute;
   width: 181px;
   height: 50px;
@@ -312,7 +312,7 @@
 }
 
 #cards {
-  display: block;
+  display: grid;
 }
 
 .rect1 {
